@@ -1,0 +1,12 @@
+go.sum
+.DS_store
+
+# temp files
+api/tmp
+tmp
+
+# gin(WAF) temp file
+gin-bin
+
+# dest bin
+app
