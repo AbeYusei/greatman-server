@@ -15,7 +15,7 @@ build:
 # docker build scripts
 
 docker-dev:
-	docker build --target dev -f docker/api/Dockerfile -t greatmen-server:dev .
+	docker build --target dev -f docker/api/Dockerfile -t greatman-server:dev .
 
 docker-build:
-	docker build --target build -f docker/api/Dockerfile -t greatmen-server:build .
+	docker build --target build -f docker/api/Dockerfile -t greatman-server:build .
