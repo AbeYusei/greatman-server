@@ -1,6 +1,11 @@
 # A Greatmen Web Server
 
-require Go Version 1.12 or higher.
+require Go Version 1.12 or higher, and gin(WAF)
+
+```
+# install gin on your local
+go get github.com/codegangsta/gin
+```
 
 ## A Greatmen tells you what is the great
 
