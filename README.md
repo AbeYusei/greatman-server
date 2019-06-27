@@ -1,5 +1,7 @@
 # A Greatmen Web Server
 
+require Go Version 1.12 or higher.
+
 ## A Greatmen tells you what is the great
 
 usuage
